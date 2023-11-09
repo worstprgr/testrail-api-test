@@ -69,7 +69,7 @@ test_suite_json = {
     "description": "Use the description to add additional context details"
 }
 
-test_file = 'tests/test.json'
+test_file = 'test.json'
 
 
 if __name__ == '__main__':
